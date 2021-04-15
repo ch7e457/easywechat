@@ -1,0 +1,10 @@
+[2018-05-17 01:45:31] NULL.DEBUG: Request received: {"method":"GET","uri":"http://127.0.0.1:8000/wechat","content-type":null,"content":""} 
+[2018-05-17 01:45:31] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1526521531</CreateTime></xml>"} 
+[2018-05-17 02:04:04] NULL.DEBUG: Request received: {"method":"GET","uri":"http://127.0.0.1:8000/wechat","content-type":null,"content":""} 
+[2018-05-17 02:04:04] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1526522644</CreateTime></xml>"} 
+[2018-05-17 05:48:17] NULL.DEBUG: Request received: {"method":"GET","uri":"http://127.0.0.1:8000/wechat/verify","content-type":null,"content":""} 
+[2018-05-17 05:48:17] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1526536097</CreateTime></xml>"} 
+[2018-05-17 06:22:55] NULL.DEBUG: Request received: {"method":"GET","uri":"http://127.0.0.1:8000/wechat/verify","content-type":null,"content":""} 
+[2018-05-17 06:22:55] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1526538175</CreateTime></xml>"} 
+[2018-05-17 09:45:52] NULL.DEBUG: Request received: {"method":"GET","uri":"http://127.0.0.1:8000/wechat/verify","content-type":null,"content":""} 
+[2018-05-17 09:45:52] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1526550352</CreateTime></xml>"} 
