@@ -33,7 +33,7 @@ class WechatOAuth
 
             $app = Factory::officialAccount($config);
             $response = $app->oauth->scopes(['snsapi_userinfo'])
-                ->redirect('http://http://wx.qwerty.wang/wechat/callback');
+                ->redirect('http://wx.qwerty.wang/wechat/callback');
             return $response;
         }
         return $next($request);
