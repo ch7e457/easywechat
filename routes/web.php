@@ -18,6 +18,9 @@ Route::get('/', function (\Illuminate\Http\Request $request) {
 //    return view('welcome');
 })->middleware('wcOauth');
 
+Route::get('/test',function(\Illuminate\Http\Request $request){
+   return 'hello world';
+});
 
 /*
  * 开发后台验证
